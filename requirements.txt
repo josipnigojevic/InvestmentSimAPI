@@ -1,0 +1,11 @@
+Flask
+Flask-Migrate
+yfinance
+pandas_ta
+scikit-learn
+numpy==1.23.5
+pandas
+nltk
+Flask-SQLAlchemy
+SQLAlchemy
+psycopg2

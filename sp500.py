@@ -1,0 +1,15 @@
+SP500_SYMBOLS = [
+    'AAPL', 'MSFT', 'GOOGL', 'AMZN', 'FB', 'BRK.B', 'TSLA', 'NVDA', 'JPM', 'JNJ',
+    'UNH', 'V', 'HD', 'PG', 'MA', 'DIS', 'PYPL', 'BAC', 'XOM', 'VZ',
+    'KO', 'CMCSA', 'CSCO', 'PFE', 'ADBE', 'NFLX', 'MRK', 'PEP', 'INTC', 'T',
+    'ABT', 'TMO', 'WMT', 'CVX', 'ABBV', 'ACN', 'COST', 'AVGO', 'QCOM', 'NKE',
+    'MDT', 'CRM', 'HON', 'LIN', 'MCD', 'LLY', 'TXN', 'NEE', 'DHR', 'ORCL',
+    'BMY', 'UNP', 'PM', 'UPS', 'LOW', 'RTX', 'SCHW', 'MS', 'AMGN', 'AMT',
+    'INTU', 'C', 'CAT', 'SBUX', 'ANTM', 'IBM', 'ISRG', 'EL', 'BKNG', 'GE',
+    'SPGI', 'PLD', 'BLK', 'MDLZ', 'GILD', 'ADI', 'CVS', 'NOW', 'AXP', 'SYK',
+    'ZTS', 'MMC', 'TMUS', 'MO', 'CB', 'DE', 'BA', 'MMM', 'MU', 'CI',
+    'TGT', 'MDT', 'SO', 'TFC', 'REGN', 'BSX', 'DUK', 'FIS', 'LMT', 'SHW',
+    'VRTX', 'FISV', 'ADP', 'GM', 'EW', 'PNC', 'BDX', 'CME', 'USB', 'NSC',
+    'ITW', 'ECL', 'CL', 'EQIX', 'APD', 'ICE', 'AON', 'ISRG', 'MSI', 'TRV',
+    'CHTR', 'ETN', 'MCO', 'ROP', 'STZ', 'PGR', 'LRCX', 'SPG', 'KLAC', 'FDX',
+]
