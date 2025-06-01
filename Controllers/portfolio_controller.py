@@ -1,4 +1,3 @@
-# controllers/portfolio_controller.py
 from Services.portfolio_service import *
 
 def create_user_portfolio(user_id):
