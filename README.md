@@ -1,4 +1,4 @@
-```
+
 # API Documentation
 
 This API empowers users and developers to access robust financial data, analytics, news insights, portfolio management capabilities, and economic indicators seamlessly while also giving investment advice depending on the compound sentiment of the latest news related to each company.
@@ -56,4 +56,4 @@ pip install -r requirements.txt
 For support, issues, or feature requests, please contact the me through GitHub Issues. Stay tuned for more updates!
 
 Josip Nigojević
-```
+
